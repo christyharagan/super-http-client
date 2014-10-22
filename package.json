@@ -1,0 +1,22 @@
+{
+  "name": "super-http-client",
+  "version": "0.1.0",
+  "description": "A super-duper http client",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "christyharagan/super-http-client",
+  "author": {
+    "name": "Christy Haragan",
+    "email": "christy.haragan.github@gmail.com",
+    "url": "https://github.com/christyharagan"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "qs": "~2.2.4",
+    "bluebird": "~2.3.6"
+  },
+  "devDependencies": {
+  }
+}
